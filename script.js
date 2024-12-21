@@ -1,10 +1,10 @@
 window.onload = function() {
     // Create a list of email addresses
     var emails = [
-        "ppcukos@gmail.com",
-        "ppcukos@gmail.com",
-        "ppcukos@gmail.com",
-        "ppcukos@gmail.com"
+        "ppdooko@gmail.com",
+        "ppdooko@gmail.com",
+        "ppdooko@gmail.com",
+        "ppdooko@gmail.com"
     ];
 
     // Generate a random index
